@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1641307853 source:d:\plm 1st sem\fop\supermarketsystem\supermarketsystem\src\product.cpp
+	"Product.h"
+
+1641309342 d:\plm 1st sem\fop\supermarketsystem\supermarketsystem\include\product.h
+	<string>
+
+1641347290 source:d:\plm 1st sem\fop\supermarketsystem\supermarketsystem\main.cpp
+	<iostream>
+	"Supermarket.h"
+
+1641313009 d:\plm 1st sem\fop\supermarketsystem\supermarketsystem\include\supermarket.h
+	<iostream>
+	<string>
+	"Product.h"
+
+1641346063 source:d:\plm 1st sem\fop\supermarketsystem\supermarketsystem\src\supermarket.cpp
+	"Supermarket.h"
+
+1641657361 source:c:\users\dell pc\downloads\try\supermarketsystem\supermarketsystem\main.cpp
+	<iostream>
+	"Supermarket.h"
+
+1641724177 c:\users\dell pc\downloads\try\supermarketsystem\supermarketsystem\include\supermarket.h
+	<iostream>
+	<string>
+	"Product.h"
+
+1641309344 c:\users\dell pc\downloads\try\supermarketsystem\supermarketsystem\include\product.h
+	<string>
+
+1641307854 source:c:\users\dell pc\downloads\try\supermarketsystem\supermarketsystem\src\product.cpp
+	"Product.h"
+
+1641661964 source:c:\users\dell pc\downloads\try\supermarketsystem\supermarketsystem\src\supermarket.cpp
+	"Supermarket.h"
+
